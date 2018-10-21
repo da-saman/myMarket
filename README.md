@@ -1,0 +1,2 @@
+# myMarket
+A responsible SuperMarket
